@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.be73160f.js",
+    "main.css": "/static/css/main.ba7feeda.css",
+    "main.js": "/static/js/main.57291873.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/fitme.png": "/static/media/fitme.7e07f48ba7329dd00da1.png",
+    "static/media/deccan.png": "/static/media/deccan.c90dd2863ad93e00559d.png",
+    "static/media/mypic.jpg": "/static/media/mypic.c7a2f39b83a02b44a754.jpg",
+    "static/media/indishop-img.png": "/static/media/indishop-img.cab18cc4ff33c172d815.png",
+    "static/media/signature.png": "/static/media/signature.a0558b12c877bd61bef4.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.be73160f.js.map": "/static/js/main.be73160f.js.map",
+    "main.ba7feeda.css.map": "/static/css/main.ba7feeda.css.map",
+    "main.57291873.js.map": "/static/js/main.57291873.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.be73160f.js"
+    "static/css/main.ba7feeda.css",
+    "static/js/main.57291873.js"
   ]
 }
