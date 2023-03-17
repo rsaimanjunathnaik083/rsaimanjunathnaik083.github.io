@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.ba7feeda.css",
-    "main.js": "/static/js/main.bbdb1c01.js",
+    "main.js": "/static/js/main.4cab36ca.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/fashion-beyond.png": "/static/media/fashion-beyond.fcdce26a056b40537881.png",
     "static/media/fitme.png": "/static/media/fitme.7e07f48ba7329dd00da1.png",
     "static/media/deccan.png": "/static/media/deccan.c90dd2863ad93e00559d.png",
-    "static/media/mypic.jpg": "/static/media/mypic.c7a2f39b83a02b44a754.jpg",
     "static/media/indishop-img.png": "/static/media/indishop-img.cab18cc4ff33c172d815.png",
     "static/media/Hi-giffy.gif": "/static/media/Hi-giffy.d93720933c608f6178fb.gif",
+    "static/media/mypic.jpg": "/static/media/mypic.79f4896743b163ce51c8.jpg",
     "static/media/signature.png": "/static/media/signature.a0558b12c877bd61bef4.png",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -16,11 +16,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.ba7feeda.css.map": "/static/css/main.ba7feeda.css.map",
-    "main.bbdb1c01.js.map": "/static/js/main.bbdb1c01.js.map",
+    "main.4cab36ca.js.map": "/static/js/main.4cab36ca.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba7feeda.css",
-    "static/js/main.bbdb1c01.js"
+    "static/js/main.4cab36ca.js"
   ]
 }
