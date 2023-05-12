@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.9b48199c.js",
+    "main.js": "/static/js/main.57fee3b9.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/fashion-beyond.png": "/static/media/fashion-beyond.fcdce26a056b40537881.png",
     "static/media/fitme.png": "/static/media/fitme.7e07f48ba7329dd00da1.png",
     "static/media/deccan.png": "/static/media/deccan.c90dd2863ad93e00559d.png",
     "static/media/indishop-img.png": "/static/media/indishop-img.cab18cc4ff33c172d815.png",
     "static/media/Hi-giffy.gif": "/static/media/Hi-giffy.d93720933c608f6178fb.gif",
-    "static/media/mypic.jpg": "/static/media/mypic.4dc41b65d0094e828069.jpg",
+    "static/media/mypic.jpg": "/static/media/mypic.3e681af25785b548a77b.jpg",
     "static/media/signature.png": "/static/media/signature.a0558b12c877bd61bef4.png",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.9b48199c.js.map": "/static/js/main.9b48199c.js.map",
+    "main.57fee3b9.js.map": "/static/js/main.57fee3b9.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9b48199c.js"
+    "static/js/main.57fee3b9.js"
   ]
 }
